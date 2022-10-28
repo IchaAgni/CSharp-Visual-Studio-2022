@@ -1,0 +1,11 @@
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\ASus\Documents\link4\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
